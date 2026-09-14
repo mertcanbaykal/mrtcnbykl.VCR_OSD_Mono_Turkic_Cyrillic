@@ -1,4 +1,4 @@
-## VCR_OSD_Mono_with_Turkic_Cyrillic_(mrmanet_mrtcnbykl_Daymarius)
+## VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius)
 
 <p align="center">
     <a href="README.md">Türkçe</a>
@@ -8,7 +8,7 @@
 
 ### DOWNLOAD LINK
 
-- You can download the font via the link [VCR_OSD_Mono_with_Turkic_Cyrillic_(mrmanet_mrtcnbykl_Daymarius).ttf](https://drive.google.com/file/d/1hNxnTeYSIN-2HnTKR9--5zaEaPU9_bqN/view?usp=sharing).
+- You can download the font via the link [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf](https://drive.google.com/file/d/1YebwwwPhppL_QCNifK-1BWSwdPayFWkp/view?usp=sharing).
 
 ### About The Font
 
@@ -18,7 +18,7 @@ Common Turkic Alphabet: [https://en.wikipedia.org/wiki/Common_Turkic_alphabet](h
 
 ### Licensing
 
-Everyone is free to use the Turkish letters I added in any way they desire, however; you should also review the opinions of *mrmanet*; the designer of the original font and *Daymarius*; the designer of the Cyrillic letters, regarding licensing.
+Everyone is free to use the Turkic letters I added in any way they desire, however; you should also review the opinions of *mrmanet*; the designer of the original font and *Daymarius*; the designer of the Cyrillic letters, regarding licensing.
 
 
 Their work:
