@@ -1,4 +1,4 @@
-## VCR_OSD_Mono_with_Turkic_Cyrillic_(mrmanet_mrtcnbykl_Daymarius)
+## VCR_OSD_Mono_+_Turkic_+_Cyrillic_(MrManet_mrtcnbykl_Daymarius)
 
 <p align="center">
     <a href="README.md">Türkçe</a>
@@ -8,7 +8,7 @@
 
 ### İNDİRME BAĞLANTISI
 
-- [VCR_OSD_Mono_with_Turkic_Cyrillic_(mrmanet_mrtcnbykl_Daymarius).ttf](https://drive.google.com/file/d/1hNxnTeYSIN-2HnTKR9--5zaEaPU9_bqN/view?usp=sharing) bağlantısı ile yazı tipini indirebilirsiniz.
+- [VCR_OSD_Mono_+_Turkic_+_Cyrillic_(MrManet_mrtcnbykl_Daymarius).ttf](https://drive.google.com/file/d/1AVkecA9tsjY_FNcgCQzUoz0LsSiH7y8d/view?usp=sharing) bağlantısı ile yazı tipini indirebilirsiniz.
 
 ### Yazı Tipi İle İlgili
 
