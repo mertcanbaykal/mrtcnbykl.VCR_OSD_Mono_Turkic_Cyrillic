@@ -8,7 +8,7 @@
 
 ### İNDİRME BAĞLANTISI
 
-- [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf](https://drive.google.com/file/d/1hNxnTeYSIN-2HnTKR9--5zaEaPU9_bqN/view?usp=sharing) bağlantısı ile yazı tipini indirebilirsiniz.
+- [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf](https://drive.google.com/file/d/1YebwwwPhppL_QCNifK-1BWSwdPayFWkp/view?usp=sharing) bağlantısı ile yazı tipini indirebilirsiniz.
 
 ### Yazı Tipi İle İlgili
 
