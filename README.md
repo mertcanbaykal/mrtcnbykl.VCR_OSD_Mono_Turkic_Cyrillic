@@ -27,4 +27,4 @@ Onların çalışmaları:
 
 
 ## *mrtcnbykl*
-*[mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl) bağlantısı ile öteki çalışmalarıma ulaşabilirsiniz.*
+*[mrtcnbykl](https://mertcanbaykal.github.io) bağlantısı ile öteki çalışmalarıma ulaşabilirsiniz.*
