@@ -18,7 +18,7 @@ Ortak Türk Abecesi: [https://tr.wikipedia.org/wiki/Ortak_Türk_alfabesi](https:
 
 ### Kullanım İzni
 
-Benim eklediğim Türk harflerini herkes düşlediği biçimde kullanabilir. Ancak, özgün yazı tipinin tasarımcısı *mrmanet* ve Kiril harflerinin tasarımcısı *Daymarius*'un kullanım izni ile ilgili görüşlerini de inceleyiniz.
+Benim eklediğim Türk harflerini herkes düşlediği biçimde kullanabilir. Ancak, yazı tipinin özgün tasarımcısı *mrmanet* ve Kiril harflerinin tasarımcısı *Daymarius*'un kullanım izni ile ilgili görüşlerini de inceleyiniz.
 
 Onların çalışmaları:
 - [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font)
