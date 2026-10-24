@@ -18,7 +18,7 @@ Common Turkic Alphabet: [https://en.wikipedia.org/wiki/Common_Turkic_alphabet](h
 
 ### Licensing
 
-Everyone is free to use the Turkic letters I added in any way they desire, however; you should also review the opinions of *mrmanet*; the designer of the original font and *Daymarius*; the designer of the Cyrillic letters, regarding licensing.
+Everyone is free to use the Turkic letters I added in any way they desire. However, you should also review the opinions of *mrmanet*; the designer of the original font and *Daymarius*; the designer of the Cyrillic letters, regarding licensing.
 
 
 Their work:
