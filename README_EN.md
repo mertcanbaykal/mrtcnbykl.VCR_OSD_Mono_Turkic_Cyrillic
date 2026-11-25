@@ -6,9 +6,12 @@
     <a href="README_EN.md">English</a>
 </p>
 
-### DOWNLOAD LINK
+### DOWNLOAD LINKS
 
-- You can download the font via the link [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf](https://drive.google.com/file/d/1YebwwwPhppL_QCNifK-1BWSwdPayFWkp/view?usp=sharing).
+- #### Google Drive
+    - You can download the font via the link [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf - Google Drive](https://drive.google.com/file/d/1YebwwwPhppL_QCNifK-1BWSwdPayFWkp/view?usp=sharing).
+- #### Unity Asset Store
+    - You can add this font as a Unity asset from the Unity Asset Store via the link [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf - Unity Asset Store](https://assetstore.unity.com/packages/2d/fonts/vcr-osd-mono-turkic-cyrillic-408490).
 
 ### About The Font
 
