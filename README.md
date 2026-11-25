@@ -8,7 +8,10 @@
 
 ### İNDİRME BAĞLANTISI
 
-- [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf](https://drive.google.com/file/d/1YebwwwPhppL_QCNifK-1BWSwdPayFWkp/view?usp=sharing) bağlantısı ile yazı tipini indirebilirsiniz.
+- #### Google Drive
+    - [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf - Google Drive](https://drive.google.com/file/d/1YebwwwPhppL_QCNifK-1BWSwdPayFWkp/view?usp=sharing) bağlantısı ile yazı tipini indirebilirsiniz.
+- #### Unity Asset Store
+    - [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf - Unity Asset Store](https://assetstore.unity.com/packages/2d/fonts/vcr-osd-mono-turkic-cyrillic-408490) bağlantısı ile yazı tipini Unity Asset Store üzerinden bir Unity varlığı olarak ekleyebilirsiniz.
 
 ### Yazı Tipi İle İlgili
 
