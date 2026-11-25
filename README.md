@@ -6,7 +6,7 @@
     <a href="README_EN.md">English</a>
 </p>
 
-### İNDİRME BAĞLANTISI
+### İNDİRME BAĞLANTILARI
 
 - #### Google Drive
     - [VCR_OSD_Mono_+\_Turkic_+\_Cyrillic\_(mrmanet_mrtcnbykl_Daymarius).ttf - Google Drive](https://drive.google.com/file/d/1YebwwwPhppL_QCNifK-1BWSwdPayFWkp/view?usp=sharing) bağlantısı ile yazı tipini indirebilirsiniz.
